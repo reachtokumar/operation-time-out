@@ -78,4 +78,8 @@ public class OperationTimeOut<T> {
             return null;
         }
     }
+
+    // TODO: Write similar method to return Optional
+
+    // TODO: Write similar method to get data and if data not found throw exception
 }
