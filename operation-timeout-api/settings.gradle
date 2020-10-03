@@ -1,4 +1,4 @@
 rootProject.name = 'operation-time-out'
-includeFlat 'example-consumer-application'
+include 'example-consumer-application'
 findProject(':example-consumer-application')?.name = 'consumer-operation-timeout'
 
